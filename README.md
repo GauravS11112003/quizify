@@ -1,2 +1,2 @@
-# quizify
+# quizzify
 The smart Quest App
